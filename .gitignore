@@ -1,0 +1,18 @@
+his file tells Git which files or folders to ignore so they aren’t uploaded (like temporary files, virtual environments, etc).
+Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*$py.class
+
+Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+Environment variables
+.env
+
+Python virtual environments
+venv/
+env/
+
+VSCode settings
+.vscode/
